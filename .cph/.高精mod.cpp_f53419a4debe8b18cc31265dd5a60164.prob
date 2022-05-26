@@ -1,0 +1,1 @@
+{"name":"Local: 高精mod","url":"d:\\OI\\高精mod.cpp","tests":[{"id":1649050276257,"input":"2 2","output":"0"},{"id":1649050283156,"input":"1000 3","output":"1"},{"id":1649050318392,"input":"2222 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\高精mod.cpp","group":"local","local":true}

@@ -1,0 +1,27 @@
+{
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.compilerPath": "D:\\mingw64\\bin\\g++.exe",
+  "C_Cpp.default.cppStandard": "c++20",
+  "debug.onTaskErrors": "abort",
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "random": "cpp",
+    "forward_list": "cpp",
+    "chrono": "cpp",
+    "condition_variable": "cpp",
+    "algorithm": "cpp",
+    "cstdio": "cpp",
+    "ostream": "cpp",
+    "numeric": "cpp",
+    "iosfwd": "cpp",
+    "*.rmd": "markdown",
+    "numbers": "cpp",
+    "*.tcc": "cpp"
+  },
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}

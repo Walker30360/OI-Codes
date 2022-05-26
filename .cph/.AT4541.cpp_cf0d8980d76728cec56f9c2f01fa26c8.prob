@@ -1,0 +1,1 @@
+{"name":"Local: AT4541","url":"d:\\OI\\AT4541.cpp","tests":[{"id":1650796406788,"input":"4\n<><","output":"5"},{"id":1650796412291,"input":"5\n<<<<","output":"1"},{"id":1650796418227,"input":"20\n>>>><>>><>><>>><<>>","output":"217136290"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\AT4541.cpp","group":"local","local":true}

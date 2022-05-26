@@ -1,0 +1,10 @@
+*.in
+*.out
+*.ans
+*.log
+# *.prob
+test*.cpp
+test*.py
+*.exe
+*.html
+*.txt

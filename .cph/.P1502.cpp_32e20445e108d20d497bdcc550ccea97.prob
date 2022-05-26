@@ -1,0 +1,1 @@
+{"name":"Local: P1502","url":"d:\\OI\\P1502.cpp","tests":[{"id":1646471564177,"input":"2\n\n3 5 4\n1 2 3\n2 3 2\n6 3 1\n\n3 5 4\n1 2 3\n2 3 2\n5 3 1","output":"5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\P1502.cpp","group":"local","local":true}
